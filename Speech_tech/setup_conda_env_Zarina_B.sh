@@ -16,4 +16,4 @@ conda uninstall scipy -y
 
 python --version
 
-conda list --export > installed_packages.txt
+conda list --export > installed_packages_Zarina_B.txt
